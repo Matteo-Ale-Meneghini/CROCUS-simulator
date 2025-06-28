@@ -1,0 +1,21 @@
+[submodule "ext/coro"]
+	path = ext/coro
+	url = https://github.com/clibs/coro.git
+[submodule "ext/eigen"]
+	path = ext/eigen
+	url = https://github.com/eigenteam/eigen-git-mirror.git
+[submodule "ext/glad"]
+	path = ext/glad
+	url = https://github.com/Dav1dde/glad.git
+[submodule "ext/glfw"]
+	path = ext/glfw
+	url = https://github.com/wjakob/glfw.git
+[submodule "ext/nanovg"]
+	path = ext/nanovg
+	url = https://github.com/wjakob/nanovg
+[submodule "ext/pybind11"]
+	path = ext/pybind11
+	url = https://github.com/pybind/pybind11.git
+[submodule "ext/cereal"]
+	path = ext/cereal
+	url = https://github.com/USCiLab/cereal.git
