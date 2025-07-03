@@ -9,7 +9,9 @@ Open the WSL bash and copy & paste the following commands (for Ubuntu 22.04):
 - cd CROCUS-simulator
 - cd build
 - cmake ..
+
 Update or install all necessary packages (errors and asking an AI will guide you)
+
 - make
 - ./SimulatorGUI
 
