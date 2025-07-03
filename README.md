@@ -12,3 +12,6 @@ Open the WSL bash and copy & paste the following commands (for Ubuntu 22.04):
 Update or install all necessary packages (errors and asking an AI will guide you)
 - make
 - ./SimulatorGUI
+
+# Download for Linux (Ubuntu 22.04)
+Follow the same steps as for Windows, without the need for WSL
