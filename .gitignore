@@ -1,11 +1,11 @@
-# build/
-# !build/logo_256px.ico
-# !build/resource1.h
-# !build/SimulatorGUI1.rc
-# bin/
-# !bin/logo_256px.ico
-# !bin/resource1.h
-# !bin/SimulatorGUI1.rc
+build/
+!build/logo_256px.ico
+!build/resource1.h
+!build/SimulatorGUI1.rc
+bin/
+!bin/logo_256px.ico
+!bin/resource1.h
+!bin/SimulatorGUI1.rc
 
 # User-specific files
 *.rsuser
