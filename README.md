@@ -3,6 +3,7 @@ Real-time simulator of the CROCUS nuclear reactor at EPFL. It is the work of the
 
 # Download for Windows
 - Download WSL (Ubuntu 22.04)
+
 Open the WSL bash and copy & paste the following commands (for Ubuntu 22.04):
 - sudo apt update && sudo apt install git
 - git clone --recurse-submodules https://github.com/Matteo-Ale-Meneghini/CROCUS-simulator.git
@@ -11,7 +12,6 @@ Open the WSL bash and copy & paste the following commands (for Ubuntu 22.04):
 - cmake ..
 
 Update or install all necessary packages (errors and asking an AI will guide you)
-
 - make
 - ./SimulatorGUI
 
